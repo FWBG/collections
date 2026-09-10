@@ -1,0 +1,48 @@
+name: Publish collections page
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "styles.css"
+      - "fwbg/**"
+      - "tools/stage-pages.py"
+      - ".github/workflows/publish.yml"
+  workflow_dispatch: {}
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Stage collections/ (render README, self-contained tokens/assets)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 tools/stage-pages.py --out _stage/collections
+
+      - name: Checkout FWBG.github.io
+        uses: actions/checkout@v4
+        with:
+          repository: FWBG/FWBG.github.io
+          token: ${{ secrets.FWBG_PAGES_TOKEN }}
+          path: fwbg-pages
+
+      - name: Sync staged files into collections/
+        run: |
+          rsync -av --delete _stage/collections/ fwbg-pages/collections/
+
+      - name: Commit and push
+        working-directory: fwbg-pages
+        run: |
+          git config user.name "fwbg-pages-bot"
+          git config user.email "actions@github.com"
+          git add collections
+          if git diff --cached --quiet; then
+            echo "no changes to publish"
+            exit 0
+          fi
+          git commit -m "Publish collections page from ${GITHUB_REPOSITORY}@${GITHUB_SHA::7}"
+          git push
