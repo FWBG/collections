@@ -34,15 +34,23 @@ PAGE_TEMPLATE = """<!doctype html>
 <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-<div class="page">
-  <div class="brand">
-    <img src="fwbg/assets/logo-leaf.svg" alt="" />
-    <span>Fort Worth Botanic Garden</span>
+<header class="site-header">
+  <div class="container">
+    <a class="logo" href="https://fwbg.github.io/" aria-label="Fort Worth Botanic Garden home">
+      <img src="fwbg/assets/logo-primary.svg" alt="Fort Worth Botanic Garden" />
+    </a>
   </div>
-  <div class="card prose">
+</header>
+<main>
+<div class="container prose">
 __BODY__
-  </div>
 </div>
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; 2026 Fort Worth Botanic Garden.</p>
+  </div>
+</footer>
 </body>
 </html>
 """
