@@ -3,11 +3,18 @@ This repository provides information and links to the many collections at the Fo
 
 ## Fort Worth Botanic Garden
 
-Living Collections - https://fwbg.gardenexplorer.org/
+Living Collections - <a href="https://fwbg.gardenexplorer.org/" target="_blank" rel="noopener noreferrer">https://fwbg.gardenexplorer.org/</a>
 
-## Botanical Research Institute of Texas Philecology Herbarium
-BRIT collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370&emode=1
+## BRIT Philecology Herbarium
+BRIT collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370</a>
 
-VDB collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264&emode=1
+VDB collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264</a>
 
-NLU collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509&emode=1
+NLU collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509</a>
+
+## BRIT Library and Archives
+Sherwin J. Carlquist collection - <a href="https://texashistory.unt.edu/explore/collections/SJCC/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/collections/SJCC/</a>
+
+FWBG collection - <a href="https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG</a>
+
+All BRIT items on the UNT Portal to Texas History - <a href="https://texashistory.unt.edu/explore/partners/BRIT/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/</a>
