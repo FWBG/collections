@@ -13,8 +13,14 @@ VDB collection - <a href="https://portal.torcherbaria.org/portal/collections/mis
 NLU collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509</a>
 
 ## BRIT Library and Archives
-Sherwin J. Carlquist collection - <a href="https://texashistory.unt.edu/explore/collections/SJCC/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/collections/SJCC/</a>
+Sherwin J. Carlquist collection (Portal to Texas History - UNT) - <a href="https://texashistory.unt.edu/explore/collections/SJCC/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/collections/SJCC/</a>
 
-FWBG collection - <a href="https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG</a>
+FWBG collection (Portal to Texas History - UNT) - <a href="https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG</a>
 
 All BRIT items on the UNT Portal to Texas History - <a href="https://texashistory.unt.edu/explore/partners/BRIT/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/</a>
+
+BRIT Library Finding Aids - <a href="https://txarchives.org/search/repository=brit" target="_blank" rel="noopener noreferrer">https://txarchives.org/search/repository=brit</a>
+
+BRIT Library LibGuide - <a href="https://cbhl.libguides.com/c.php?g=1210416&p=8851711" target="_blank" rel="noopener noreferrer">https://cbhl.libguides.com/c.php?g=1210416&p=8851711</a>
+
+BRIT Library Catalog Search - <a href="https://tcu.primo.exlibrisgroup.com/discovery/search?search_scope=BRTLibrary&vid=01TCU_MUS:01TCU_MUS" target="_blank" rel="noopener noreferrer">https://tcu.primo.exlibrisgroup.com/discovery/search?search_scope=BRTLibrary&vid=01TCU_MUS:01TCU_MUS</a>
