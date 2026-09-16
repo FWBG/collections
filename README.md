@@ -1,5 +1,5 @@
-# Fort Worth Botanic Garden - collections
-This repository provides information and links to the many collections at the Fort Worth Botanic Garden (FWBG) and the Botanical Research Institute of Texas (BRIT).
+# Fort Worth Botanic Garden - digital collections
+This repository provides information and links to the many collections and their digital counterparts at the Fort Worth Botanic Garden (FWBG) and the Botanical Research Institute of Texas (BRIT).
 
 ## Fort Worth Botanic Garden
 
