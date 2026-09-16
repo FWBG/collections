@@ -17,6 +17,7 @@ rsync --delete in CI).
 import argparse
 import json
 import os
+import re
 import shutil
 import sys
 import urllib.request
@@ -74,6 +75,23 @@ def render_markdown(text: str) -> str:
         return r.read().decode("utf-8")
 
 
+def restore_new_tab_links(html: str) -> str:
+    """Re-add target="_blank" to external links.
+
+    GitHub's markdown rendering API sanitizes raw HTML and strips the
+    `target` attribute (and rewrites `rel` to "nofollow"), so the
+    target="_blank" written in README.md never survives into the
+    rendered page. Patch it back in here.
+    """
+
+    def patch(match: re.Match) -> str:
+        tag = match.group(0)
+        tag = re.sub(r'\s+(?:target|rel)="[^"]*"', "", tag)
+        return tag[:-1] + ' target="_blank" rel="noopener noreferrer">'
+
+    return re.sub(r'<a\s+[^>]*href="https?://[^"]*"[^>]*>', patch, html)
+
+
 def stage(out_dir: Path) -> None:
     readme = REPO_ROOT / "README.md"
     if not readme.exists():
@@ -83,7 +101,7 @@ def stage(out_dir: Path) -> None:
         shutil.rmtree(out_dir)
     out_dir.mkdir(parents=True)
 
-    body = render_markdown(readme.read_text(encoding="utf-8"))
+    body = restore_new_tab_links(render_markdown(readme.read_text(encoding="utf-8")))
     page = PAGE_TEMPLATE.replace("__BODY__", body)
     (out_dir / "index.html").write_text(page, encoding="utf-8")
     shutil.copy2(REPO_ROOT / "styles.css", out_dir / "styles.css")
