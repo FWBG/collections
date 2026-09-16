@@ -20,8 +20,8 @@ main{padding:var(--space-xl) 0}
 .prose h1{font-size:var(--text-xxxxl);line-height:1.1;margin:0 0 var(--space-sm)}
 .prose h2{font-size:var(--text-xxxl);line-height:1.15;margin:var(--space-lg) 0 var(--space-xs)}
 .prose h3{font-family:var(--font-primary);font-weight:900;font-size:var(--text-xl);margin:var(--space-md) 0 var(--space-xs)}
-.prose p{font-size:var(--text-md);max-width:38rem;margin:0 0 var(--space-sm)}
-.prose ul,.prose ol{font-size:var(--text-md);max-width:38rem;margin:0 0 var(--space-sm);padding-left:var(--space-md)}
+.prose p{font-size:var(--text-md);max-width:var(--max-width-sm);margin:0 0 var(--space-sm)}
+.prose ul,.prose ol{font-size:var(--text-md);max-width:var(--max-width-sm);margin:0 0 var(--space-sm);padding-left:var(--space-md)}
 .prose li{margin-bottom:var(--space-xxs)}
 .prose a{color:var(--link-color);text-decoration:underline;text-underline-offset:0.15em}
 .prose a:hover{color:var(--link-color-hover)}
