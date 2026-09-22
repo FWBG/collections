@@ -32,6 +32,13 @@ PAGE_TEMPLATE = """<!doctype html>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>FWBG Collections</title>
+<!-- New Kansas (headers) only reaches the browser after styles.css -> fonts.css
+     -> this Typekit CSS are fetched in series; preloading it here lets the
+     font start downloading immediately instead of after two chained @imports,
+     so h1/h2 don't sit invisible during the flash-of-invisible-text window. -->
+<link rel="preconnect" href="https://use.typekit.net" crossorigin />
+<link rel="preconnect" href="https://p.typekit.net" crossorigin />
+<link rel="preload" as="style" href="https://use.typekit.net/pgm0cqm.css" />
 <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
