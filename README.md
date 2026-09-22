@@ -8,16 +8,18 @@ Living Collections - <a href="https://fwbg.gardenexplorer.org/" target="_blank" 
 Begonia Collection - <a href="https://fwbg.github.io/begonias/" target="_blank" rel="noopener noreferrer">https://fwbg.github.io/begonias/</a>
 
 ## BRIT Philecology Herbarium
-BRIT collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370</a>
+BRIT Collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370</a>
 
-VDB collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264</a>
+VDB Collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264</a>
 
-NLU collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509</a>
+NLU Collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509</a>
 
 ## BRIT Library and Archives
-Sherwin J. Carlquist collection (Portal to Texas History - UNT) - <a href="https://texashistory.unt.edu/explore/collections/SJCC/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/collections/SJCC/</a>
+Sherwin J. Carlquist Collection - <a href="https://texashistory.unt.edu/explore/collections/SJCC/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/collections/SJCC/</a>
 
-FWBG collection (Portal to Texas History - UNT) - <a href="https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG</a>
+FWBG Legacy Collection - <a href="https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG</a>
+
+Fort Worth Garden Club Collection - <a href="https://texashistory.unt.edu/explore/partners/FWGC/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/FWGC/</a>
 
 All BRIT items on the UNT Portal to Texas History - <a href="https://texashistory.unt.edu/explore/partners/BRIT/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/</a>
 
