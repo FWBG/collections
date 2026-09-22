@@ -16,6 +16,7 @@ main{padding:var(--space-xl) 0}
 .site-footer{background:var(--color-primary-darker);color:var(--color-tertiary);padding:var(--space-md) 0;margin-top:var(--space-xl)}
 .site-footer p{margin:0;font-size:var(--text-sm)}
 
+.prose h1,.prose h2,.prose h3{color:var(--text-heading)}
 .prose h1,.prose h2{font-family:var(--font-secondary);font-weight:var(--display-font-weight)}
 .prose h1{font-size:var(--text-xxxxl);line-height:1.1;margin:0 0 var(--space-sm)}
 .prose h2{font-size:var(--text-xxxl);line-height:1.15;margin:var(--space-lg) 0 var(--space-xs)}
