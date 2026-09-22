@@ -5,6 +5,8 @@ This repository provides information and links to the many collections and their
 
 Living Collections - <a href="https://fwbg.gardenexplorer.org/" target="_blank" rel="noopener noreferrer">https://fwbg.gardenexplorer.org/</a>
 
+Begonia Collection - <a href="https://fwbg.github.io/begonias/" target="_blank" rel="noopener noreferrer">https://fwbg.github.io/begonias/</a>
+
 ## BRIT Philecology Herbarium
 BRIT collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370</a>
 
