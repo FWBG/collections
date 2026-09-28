@@ -3,30 +3,30 @@ This repository provides information and links to the many collections and their
 
 ## Fort Worth Botanic Garden
 
-Living Collections - <a href="https://fwbg.gardenexplorer.org/" target="_blank" rel="noopener noreferrer">https://fwbg.gardenexplorer.org/</a>
+Living Collections - https://fwbg.gardenexplorer.org/
 
-Begonia Collection - <a href="https://fwbg.github.io/begonias/" target="_blank" rel="noopener noreferrer">https://fwbg.github.io/begonias/</a>
+Begonia Collection - https://fwbg.github.io/begonias/
 
 ## BRIT Philecology Herbarium
-BRIT Collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370</a>
+BRIT Collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=370
 
-VDB Collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264</a>
+VDB Collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264
 
-NLU Collection - <a href="https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509" target="_blank" rel="noopener noreferrer">https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509</a>
+NLU Collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509
 
 ## BRIT Library and Archives
-Sherwin J. Carlquist Collection - <a href="https://texashistory.unt.edu/explore/collections/SJCC/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/collections/SJCC/</a>
+Sherwin J. Carlquist Collection - https://texashistory.unt.edu/explore/collections/SJCC/
 
-Sherwin Carlquist Digital Extended Specimen Network - <a href="https://britorg.github.io/carlquist_esn/" target="_blank" rel="noopener noreferrer">https://britorg.github.io/carlquist_esn/</a>
+Sherwin Carlquist Digital Extended Specimen Network - https://britorg.github.io/carlquist_esn/
 
-FWBG Legacy Collection - <a href="https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG</a>
+FWBG Legacy Collection - https://texashistory.unt.edu/explore/partners/BRIT/browse/?fq=untl_collection:FWBG
 
-Fort Worth Garden Club Collection - <a href="https://texashistory.unt.edu/explore/partners/FWGC/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/FWGC/</a>
+Fort Worth Garden Club Collection - https://texashistory.unt.edu/explore/partners/FWGC/
 
-All BRIT items on the UNT Portal to Texas History - <a href="https://texashistory.unt.edu/explore/partners/BRIT/" target="_blank" rel="noopener noreferrer">https://texashistory.unt.edu/explore/partners/BRIT/</a>
+All BRIT items on the UNT Portal to Texas History - https://texashistory.unt.edu/explore/partners/BRIT/
 
-BRIT Library Finding Aids - <a href="https://txarchives.org/search/repository=brit" target="_blank" rel="noopener noreferrer">https://txarchives.org/search/repository=brit</a>
+BRIT Library Finding Aids - https://txarchives.org/search/repository=brit
 
-BRIT Library LibGuide - <a href="https://cbhl.libguides.com/c.php?g=1210416&p=8851711" target="_blank" rel="noopener noreferrer">https://cbhl.libguides.com/c.php?g=1210416&p=8851711</a>
+BRIT Library LibGuide - https://cbhl.libguides.com/c.php?g=1210416&p=8851711
 
-BRIT Library Catalog Search - <a href="https://tcu.primo.exlibrisgroup.com/discovery/search?search_scope=BRTLibrary&vid=01TCU_MUS:01TCU_MUS" target="_blank" rel="noopener noreferrer">https://tcu.primo.exlibrisgroup.com/discovery/search?search_scope=BRTLibrary&vid=01TCU_MUS:01TCU_MUS</a>
+BRIT Library Catalog Search - https://tcu.primo.exlibrisgroup.com/discovery/search?search_scope=BRTLibrary&vid=01TCU_MUS:01TCU_MUS
