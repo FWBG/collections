@@ -4,6 +4,27 @@ This repo is the *source* for the FWBG digital collections page. It is not a
 website itself — `README.md` is treated as the page content, and CI renders
 it into a static page published on a different repo entirely.
 
+## Purpose and sibling repos
+
+This repo is the source for **one public page**: a curated directory of links
+to where FWBG and BRIT collections live (Garden Explorer, TORCH portal, UNT
+Portal to Texas History, library catalog, etc.). It holds **no collection
+data**, only links. Several sibling repos under `/media/jbest/DATA3-6TB/BRIT_git/`
+have similar names or overlapping subject matter:
+
+| Repo | What it is | Relation to this repo |
+|---|---|---|
+| `FWBG.github.io` | The hub website | This repo's output is synced into its `collections/` directory |
+| `fwbg_collection_data` | Unifying collection data across FWBG and BRIT (early scaffold; schema, mappings, data) | Differs by one letter. It holds data; this repo only links out |
+| `fwbg_living_collections_data` | IrisBG export tooling and weekly raw CSV snapshots | Source data, not published here; the page only links to Garden Explorer |
+| `begonia_image_dataset` | Photographing Begonia plants and publishing image data packages with DOIs | Separate project; this page links to the Begonia site |
+| `living_collections` | Static dashboards for the living collections | Separate site content; also carries its own copy of `fwbg/` |
+| `begonia_demo`, `begonia-db`, `begonia_frictionless_test` | Begonia experiments | Unrelated to this page |
+| `fwbg-design-system`, `fwbg-ds-toolkit`, `fwbg-brand-assets` | Visual identity: tokens/components, DS build scripts, brand source files | The `fwbg/` directory here is a deliberate copy so the page has no dependency on the hub site; it is not the source of truth |
+
+If a request is about collection data, schemas, IrisBG exports, or Begonia
+images, it probably belongs in one of those repos, not this one.
+
 ## What lives here
 
 - `README.md` — the actual content of the published page (links to FWBG
