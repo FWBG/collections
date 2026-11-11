@@ -56,7 +56,7 @@ __BODY__
 </main>
 <footer class="site-footer">
   <div class="container">
-    <p>&copy; 2026 Fort Worth Botanic Garden.</p>
+    <p>&copy; 2026 Fort Worth Botanic Garden. &middot; <a href="/llms.txt">llms.txt</a></p>
   </div>
 </footer>
 </body>
