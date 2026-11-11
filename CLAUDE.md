@@ -66,11 +66,18 @@ images, it probably belongs in one of those repos, not this one.
 - Because `README.md` is rendered verbatim into the public page, don't add
   maintainer-only notes there — this file (or a future `CONTRIBUTING.md`)
   is the place for that instead.
-- Any HTML written directly in `README.md` (e.g. `<a target="_blank">`)
-  gets sanitized by GitHub's markdown API and then selectively restored by
-  `restore_new_tab_links()` in `stage-pages.py` — only the `target`/`rel`
-  attributes on `http(s)` links are patched back in. Other raw HTML
-  attributes will still get stripped.
+- **Write links as bare URLs** (`Label - https://example.org/`), not as raw
+  `<a href="URL" target="_blank">URL</a>` HTML. GitHub's markdown API
+  autolinks the bare URL, and `restore_new_tab_links()` in `stage-pages.py`
+  then adds `target="_blank" rel="noopener noreferrer"` to every external
+  `http(s)` link, so no extra markup is needed. Wrapping a URL in raw `<a>`
+  HTML makes the API emit a duplicate empty anchor (an unnamed tab stop that
+  fails Lighthouse's link-name audit; see PR #2).
+- Any other HTML written directly in `README.md` gets sanitized by GitHub's
+  markdown API; only the `target`/`rel` attributes on `http(s)` links are
+  patched back in. Other raw HTML attributes will still get stripped.
+- Use title-case labels such as `BRIT Mycology Collection`, matching the
+  existing entries.
 - The publish job pushes straight to `FWBG/FWBG.github.io` on every merge
   to `main` here — there's no staging/preview step, so treat `main` in
   this repo as effectively production for the collections page.
