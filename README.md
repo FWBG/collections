@@ -34,3 +34,6 @@ BRIT Library Finding Aids - https://txarchives.org/search/repository=brit
 BRIT Library LibGuide - https://cbhl.libguides.com/c.php?g=1210416&p=8851711
 
 BRIT Library Catalog Search - https://tcu.primo.exlibrisgroup.com/discovery/search?search_scope=BRTLibrary&vid=01TCU_MUS:01TCU_MUS
+
+## BRIT Data Publications
+BRIT Community on Zenodo - https://zenodo.org/communities/brit/
