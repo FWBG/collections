@@ -12,7 +12,7 @@ BRIT Collection - https://portal.torcherbaria.org/portal/collections/misc/collpr
 
 VDB Collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=264
 
-NLU Collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509
+NLU Collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=309
 
 BRIT Mycology Collection - https://mycoportal.org/portal/collections/misc/collprofiles.php?collid=87
 
