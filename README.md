@@ -14,6 +14,10 @@ VDB Collection - https://portal.torcherbaria.org/portal/collections/misc/collpro
 
 NLU Collection - https://portal.torcherbaria.org/portal/collections/misc/collprofiles.php?collid=509
 
+BRIT Mycology Collection - https://mycoportal.org/portal/collections/misc/collprofiles.php?collid=87
+
+BRIT Lichenology Collection - https://lichenportal.org/portal/collections/misc/collprofiles.php?collid=74
+
 ## BRIT Library and Archives
 Sherwin J. Carlquist Collection - https://texashistory.unt.edu/explore/collections/SJCC/
 
